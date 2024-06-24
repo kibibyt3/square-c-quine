@@ -1,24 +1,33 @@
-int printf();;int main(){;{};{69;};{};;char(k)='%';;char
-(l)='c';;;;;char(a[])={k,l,k,l,k,l,k,l,0};;{420;}char*s=
-"int printf();;int main(){;<{69;};<;char(k)='%';;char\n\
-(l)='c';>char(a[])={k,l,k,l,k,l,k,l,0};;{420;}char*s=\n\
-?;`char(b[])={k,l,0};>>char(c[])={k,l,k,'s',k,l,0};//\n\
-<#char(d[])={k,l,k,l,0};char(e[])={k,l,k,l,k,l,0};{};\n\
-<#{2;}char(f[])={k,l,k,l,k,l,k,l,0};for(int(i)=0;s[i]\n\
-!=0;i++){switch(s[i]){case(63):<#printf(b,34);for(int\n\
-(j)=0;s[j]!=0;j++){switch(s[j]){case(10):;<#printf(a,\n\
-92,'n',92,10);break;default:<#printf(b,s[j]);break;}}\n\
-printf(b,34);break;case(96):<#printf(b,10);break;case\n\
-(35):printf(d,59,59);break;<#case(60):;;printf(e,123,\n\
-125,59);break;case(62):printf(f,59,59,59,59);<#break;\n\
-default:##;printf(b,s[i]);break;}}}/*liv.wuz.here!:3*/";
-char(b[])={k,l,0};;;;;;;;;char(c[])={k,l,k,'s',k,l,0};//
-{};;;char(d[])={k,l,k,l,0};char(e[])={k,l,k,l,k,l,0};{};
-{};;;{2;}char(f[])={k,l,k,l,k,l,k,l,0};for(int(i)=0;s[i]
-!=0;i++){switch(s[i]){case(63):{};;;printf(b,34);for(int
-(j)=0;s[j]!=0;j++){switch(s[j]){case(10):;{};;;printf(a,
-92,'n',92,10);break;default:{};;;printf(b,s[j]);break;}}
-printf(b,34);break;case(96):{};;;printf(b,10);break;case
-(35):printf(d,59,59);break;{};;;case(60):;;printf(e,123,
-125,59);break;case(62):printf(f,59,59,59,59);{};;;break;
-default:;;;;;printf(b,s[i]);break;}}}/*liv.wuz.here!:3*/
+int printf();int main(){{2;}char(k)='%';;;char(l)='c';;;char
+(a[])={k,l,k,l,k,l,k,l,0};{2;}char(b[])={k,l,0};int(x);;{8;}
+char(c[])={k,l,k,'s',k,l,0};;char(d[])={k,l,k,l,0};{2;};{4;}
+{(256);};;{(256);};;{(256);};;{(256);};;{(256);};;{(256);};;
+char(e[])={k,l,k,l,k,l,0};{'h';}{'i';}{'!';;;};{2;};;char*s=
+"int printf();int main(){@char(k)='%';#char(l)='c';;;char\n\
+(a[])={k,l,k,l,k,l,k,l,0};@char(b[])={k,l,0};int(x);;{8;}\n\
+char(c[])={k,l,k,'s',k,l,0};;char(d[])={k,l,k,l,0};@;{4;}\n\
+-char(e[])={k,l,k,l,k,l,0};{'h';}{'i';}{'!';;;};@#char*s=\n\
+?;`char(f[])={k,l,k,l,k,l,k,l,0};@@char(g[])={'{','(','2'\n\
+,'5','6',')',';','}',';',';'};@{4;}for(int(i)=0;s[i]!=0;i\n\
+++){switch(s[i]){case(63):printf(b,34);@{8;}for(int(j)=0;\n\
+s[j]!=0;j++){switch(s[j]){case(10):;@{};;printf(a,92,'n',\n\
+92,10);>{4;}break;default:printf(b,s[j]);;break;}}printf(\n\
+b,34);@{1;}break;case(96):printf(b,10);;break;case(35):;;\n\
+/**/@{8;}{420;};{'l';}{'o';}{'l';}{'o';}{'l';}/*teehee!*/\n\
+printf(d,59,59);@{};;;break;case(60):printf(e,123,125,59)\n\
+;break;case(62):@{8;}printf(f,59,59,59,59);break;case(45)\n\
+:for(int(j)=0;j!=6;j++){printf(g);{};@{4;}}printf(b,10);;\n\
+break;case(64):printf(f,123,50,59,125);@{4;}break;default\n\
+:printf(b,s[i]);<break;}}}/*.liv.loves.you.4ever!!.*//*2*/";
+char(f[])={k,l,k,l,k,l,k,l,0};{2;}{2;}char(g[])={'{','(','2'
+,'5','6',')',';','}',';',';'};{2;}{4;}for(int(i)=0;s[i]!=0;i
+++){switch(s[i]){case(63):printf(b,34);{2;}{8;}for(int(j)=0;
+s[j]!=0;j++){switch(s[j]){case(10):;{2;}{};;printf(a,92,'n',
+92,10);;;;;{4;}break;default:printf(b,s[j]);;break;}}printf(
+b,34);{2;}{1;}break;case(96):printf(b,10);;break;case(35):;;
+/**/{2;}{8;}{420;};{'l';}{'o';}{'l';}{'o';}{'l';}/*teehee!*/
+printf(d,59,59);{2;}{};;;break;case(60):printf(e,123,125,59)
+;break;case(62):{2;}{8;}printf(f,59,59,59,59);break;case(45)
+:for(int(j)=0;j!=6;j++){printf(g);{};{2;}{4;}}printf(b,10);;
+break;case(64):printf(f,123,50,59,125);{2;}{4;}break;default
+:printf(b,s[i]);{};break;}}}/*.liv.loves.you.4ever!!.*//*2*/
