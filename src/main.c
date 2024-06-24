@@ -1,22 +1,24 @@
-int printf();int main(char*s){s=
-"int printf();int main(char*s){s=\n\
-?;`char a[]={'%','c','%','c','%'\n\
-,'c','%','c',0};char b[]={'%','c'\n\
-,0};char c[]={'%','c','%','s','%'\n\
-,'c',0};for(int i=0;s[i]!=0;i++)\n\
-{if(s[i]==63){printf(b,34);for(\n\
-int j=0;s[j]!=0;j++){if(s[j]==\n\
-0x0A){printf(a,92,'n',92,0x0A);}\n\
-else{printf(b,s[j]);}}printf(b,\n\
-34);}else if(s[i]==96){printf(b,\n\
-0x0A);}else{printf(b,s[i]);}}}";
-char a[]={'%','c','%','c','%'
-,'c','%','c',0};char b[]={'%','c'
-,0};char c[]={'%','c','%','s','%'
-,'c',0};for(int i=0;s[i]!=0;i++)
-{if(s[i]==63){printf(b,34);for(
-int j=0;s[j]!=0;j++){if(s[j]==
-0x0A){printf(a,92,'n',92,0x0A);}
-else{printf(b,s[j]);}}printf(b,
-34);}else if(s[i]==96){printf(b,
-0x0A);}else{printf(b,s[i]);}}}
+int printf();;int main(){;{};{69;};{};;char(k)='%';;char
+(l)='c';;;;;char(a[])={k,l,k,l,k,l,k,l,0};;{420;}char*s=
+"int printf();;int main(){;<{69;};<;char(k)='%';;char\n\
+(l)='c';>char(a[])={k,l,k,l,k,l,k,l,0};;{420;}char*s=\n\
+?;`char(b[])={k,l,0};>>char(c[])={k,l,k,'s',k,l,0};//\n\
+<#char(d[])={k,l,k,l,0};char(e[])={k,l,k,l,k,l,0};{};\n\
+<#{2;}char(f[])={k,l,k,l,k,l,k,l,0};for(int(i)=0;s[i]\n\
+!=0;i++){switch(s[i]){case(63):<#printf(b,34);for(int\n\
+(j)=0;s[j]!=0;j++){switch(s[j]){case(10):;<#printf(a,\n\
+92,'n',92,10);break;default:<#printf(b,s[j]);break;}}\n\
+printf(b,34);break;case(96):<#printf(b,10);break;case\n\
+(35):printf(d,59,59);break;<#case(60):;;printf(e,123,\n\
+125,59);break;case(62):printf(f,59,59,59,59);<#break;\n\
+default:##;printf(b,s[i]);break;}}}/*liv.wuz.here!:3*/";
+char(b[])={k,l,0};;;;;;;;;char(c[])={k,l,k,'s',k,l,0};//
+{};;;char(d[])={k,l,k,l,0};char(e[])={k,l,k,l,k,l,0};{};
+{};;;{2;}char(f[])={k,l,k,l,k,l,k,l,0};for(int(i)=0;s[i]
+!=0;i++){switch(s[i]){case(63):{};;;printf(b,34);for(int
+(j)=0;s[j]!=0;j++){switch(s[j]){case(10):;{};;;printf(a,
+92,'n',92,10);break;default:{};;;printf(b,s[j]);break;}}
+printf(b,34);break;case(96):{};;;printf(b,10);break;case
+(35):printf(d,59,59);break;{};;;case(60):;;printf(e,123,
+125,59);break;case(62):printf(f,59,59,59,59);{};;;break;
+default:;;;;;printf(b,s[i]);break;}}}/*liv.wuz.here!:3*/
